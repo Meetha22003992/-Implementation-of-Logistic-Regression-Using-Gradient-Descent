@@ -164,23 +164,25 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119401038/233590840-cb0c926c-dfcf-401d-8543-2729b530b886.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/d2391f61-7de5-4afb-ac0d-0dbfa8fda81f)
 
-![image](https://user-images.githubusercontent.com/119401038/233591041-94ba05fd-dbf9-4b07-9e20-099e3923fb6f.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/96ef80c5-8f51-4dfe-8321-e4d32f45c6d1)
 
-![image](https://user-images.githubusercontent.com/119401038/233591126-2aa99939-4403-4ec4-ba11-2a03074fb6a4.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/f2406341-6755-41a3-a308-f6600673fa0b)
 
-![image](https://user-images.githubusercontent.com/119401038/233591338-ee424e4c-3ec0-461c-8e59-060924f6ef1c.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/1f38d8ee-5cd3-4899-b931-ce5a7bc23920)
 
-![image](https://user-images.githubusercontent.com/119401038/233591573-92479396-0247-4d3e-8f81-ff72a86fb9e0.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/0972a2f3-12cc-4e24-9899-1d5823648f0a)
 
-![image](https://user-images.githubusercontent.com/119401038/233591638-31be73c4-2388-4a4d-b237-7d72e4beb1de.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/0d50459b-b8bc-4886-bd70-4135ca0090b5)
 
-![image](https://user-images.githubusercontent.com/119401038/233591884-f5877f70-2e0a-4a8e-982d-c1860c7b95dc.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/0a5197f6-6940-4144-95fe-cc4ac01b13ed)
 
-![image](https://user-images.githubusercontent.com/119401038/233591937-6946fe00-17b4-4cf4-9c6e-56783369990a.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/a87ec5ec-56ad-47a2-b68a-1aaabeb77052)
 
-![image](https://user-images.githubusercontent.com/119401038/233591987-fcce2982-4afc-476d-923b-98d81d8d1731.png)
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/1e4e1975-b935-4bfe-9c80-7ce0f2e26315)
+
+![image](https://github.com/Meetha22003992/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119401038/5436e5ac-c497-4543-a966-83ff4065a5fb)
 
 
 
